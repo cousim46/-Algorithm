@@ -18,8 +18,8 @@ public class Programmers_문자열다루기기본 {
         }
     }
 
+
     public static void main(String[] args) {
         Programmers_문자열다루기기본 p = new Programmers_문자열다루기기본();
-        System.out.println("p.solution(\"1234\") = " + p.solution("5611"));
     }
 }
